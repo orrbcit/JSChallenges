@@ -6,4 +6,4 @@ This is part of a series of (ongoing) mini-challenges designed to assess, review
 - Each exercise is self-contained and meant to be done within 15 minutes.
 - Each challenge is a branch
 
-C.Orr 
+C.Orr and H.Rashedi
